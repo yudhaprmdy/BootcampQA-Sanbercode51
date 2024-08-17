@@ -1,4 +1,4 @@
 # BootcampQA-Sanbercode51
-Mobile Testing
+Mobile Testing Using Robotframework
 
-Indie Yudha Pramudya (Group 7)
+Indie Yudha Pramudya 
